@@ -4,7 +4,7 @@
                 Por ultimo mostrar la lista
 '''
 
-lista = ["Olha", 4, 7, 17, True, 4, "Olha"]
+lista = ["Luis", 4, 7, 17, True, 4, "Omar"]
 print(lista)
 
 conjunto = set(lista)
@@ -15,7 +15,7 @@ print(lista)
 
 # MISMO EJERCICIO EN UN LINEA RESUELTO   ---------------------------------------------------------------
 
-lista = ["Olha", 4, 7, 17, True, 4, "Olha"]
+lista = ["Olha", 4, 7, 17, True, 4, "Gera"]
 
 lista = list(set(lista))
 print(lista)
