@@ -15,12 +15,12 @@ lista = [1,4,"man"]                      # Se puede usar la variable de la lista
 for i in lista:
     print(i)
 
-str = "Olha"
+str = "Omar"
 for i in str:
     print(f"{i}")
 
 #                               FOR CON DICCIONARIOS
-diccionario = {"Gera":22, "Olha":20, "Luis":12}
+diccionario = {"Gera":22, "Omar":20, "Lois":12}
 for i in diccionario:
     print(f"Elemento: {i}")              # En este caso se imprime solo la clave del elemento del diccionario
 
